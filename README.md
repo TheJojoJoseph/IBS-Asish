@@ -5,5 +5,5 @@ IBS-Asish
 ```
 python3  -m venv env
 source env/bin/activate
-pip install gTTS
+pip install -r requirements.txt
 ``````
